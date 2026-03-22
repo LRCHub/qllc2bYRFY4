@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "キューティーハニー",
+  "base_artist": "倖田來未",
+  "createdAt": "2026-03-22T02:45:29.357573Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キューティーハニー",
+      "artist": "Anime That Jazz",
+      "has_synced": false,
+      "path": "select/01_キューティーハニー_Anime_That_Jazz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cutie Honey [キューティーハニー]",
+      "artist": "ANIME THAT JAZZ",
+      "has_synced": false,
+      "path": "select/02_Cutie_Honey_[キューティーハニー]_ANIME_THAT_JAZZ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キューティーハニー",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/03_キューティーハニー_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キューティーハニー",
+      "artist": "前川陽子",
+      "has_synced": true,
+      "path": "select/04_キューティーハニー_前川陽子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キューティーハニー",
+      "artist": "Koda, Kumi",
+      "has_synced": true,
+      "path": "select/05_キューティーハニー_Koda,_Kumi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キューティーハニー (KODA KUMI LIVE TOUR 2013 ~JAPONESQUE~)",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/06_キューティーハニー_(KODA_KUMI_LIVE_TOUR_2013_~JAPONESQUE~)_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "キューティーハニー",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/07_キューティーハニー_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "キューティーハニー",
+      "artist": "Go!Go!7188",
+      "has_synced": false,
+      "path": "select/08_キューティーハニー_Go!Go!7188.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "キューティーハニー (21st century ver.)",
+      "artist": "前川 陽子",
+      "has_synced": false,
+      "path": "select/09_キューティーハニー_(21st_century_ver.)_前川_陽子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "キューティーハニー (21st century ver.)",
+      "artist": "前川陽子",
+      "has_synced": false,
+      "path": "select/10_キューティーハニー_(21st_century_ver.)_前川陽子.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "キューティーハニー",
+      "artist": "倖田來未",
+      "has_synced": true,
+      "path": "select/11_キューティーハニー_倖田來未.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "キューティーハニー",
+      "artist": "倖田來未",
+      "has_synced": true,
+      "path": "select/12_キューティーハニー_倖田來未.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キューティーハニー",
+      "artist": "倖田 來未",
+      "has_synced": false,
+      "path": "select/pl_01_キューティーハニー_倖田_來未.txt"
+    }
+  ]
+}

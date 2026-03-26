@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "キューティーハニー",
   "base_artist": "倖田來未",
-  "createdAt": "2026-03-22T02:45:29.357573Z",
+  "createdAt": "2026-03-26T01:24:23.115170Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -107,6 +107,15 @@
       "artist": "倖田 來未",
       "has_synced": false,
       "path": "select/pl_01_キューティーハニー_倖田_來未.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "キューティーハニー",
+      "artist": "倖田來未",
+      "has_synced": false,
+      "path": "select/localdb_01_キューティーハニー_倖田來未.txt",
+      "repo_name": "qllc2bYRFY4"
     }
   ]
 }
